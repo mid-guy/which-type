@@ -11,7 +11,8 @@
     "index.ts"
   ],
   "repository": {
-    "type": "git"
+    "type": "git",
+    "url": "https://github.com/mid-guy/which-type"
   },
   "keywords": [],
   "author": "Mid-guy",
